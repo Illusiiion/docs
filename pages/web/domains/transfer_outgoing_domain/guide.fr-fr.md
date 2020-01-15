@@ -48,7 +48,7 @@ Récupérez le code qui s'affiche dans la fenêtre.
 
 ### Étape 3 : débuter le transfert vers le nouveau bureau d'enregistrement
 
-Si ce n'est pas déjà fait, prenez contact avec votre nouveau bureau d'enregistrement pour initier le transfert de votre nom de domaine. Vous devrez lui communiquer le code de transfert récupéré lors de l'étape 3 durant le processus propre à ce bureau.
+Si ce n'est pas déjà fait, prenez contact avec votre nouveau bureau d'enregistrement pour initier le transfert de votre nom de domaine. Vous devrez lui communiquer le code de transfert récupéré lors de l'étape 2 durant le processus propre à ce bureau.
 
 Reportez-vous aux informations communiquées par votre nouveau bureau d'enregistrement pour en apprendre plus sur les délais de transfert.
 
